@@ -13,7 +13,7 @@ matplotlib==3.2.2
 mccabe==0.6.1
 mpl-finance @ https://github.com/matplotlib/mpl_finance/archive/master.zip
 mplfinance==0.12.5a3
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.5
 pandas-datareader==0.8.1
 pycodestyle==2.6.0
